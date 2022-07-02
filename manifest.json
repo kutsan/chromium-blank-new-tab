@@ -1,0 +1,9 @@
+{
+  "name": "New Tab",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "Blank new tab page.",
+  "chrome_url_overrides": {
+    "newtab": "new-tab.html"
+  }
+}
